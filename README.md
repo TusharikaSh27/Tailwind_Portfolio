@@ -30,7 +30,7 @@ A sleek and modern **personal portfolio website** built using **Tailwind CSS**. 
 ### 1. Clone the Repository
 
 bash
-git clone https://github.com/your-username/portfolio-tailwind.git
+git clone https://github.com/TusharikaSh27/Tailwind_Portfolio.git
 cd portfolio-tailwind
 `
 
